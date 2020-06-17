@@ -124,6 +124,12 @@ export default function About() {
                                 Story telling / Voice dubbing
                             </h6>
                         </div>
+                        <div className="my-2 v-centered">
+                            <img src="/img/cooking-pot.svg" alt="3D" className="card-element-image"/>
+                            <h6>
+                                Cooking
+                            </h6>
+                        </div>
                     </Card>
                 </section>
             </div>
