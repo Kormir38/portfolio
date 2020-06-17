@@ -96,14 +96,14 @@ export default function About() {
                         </div>
                     </div>
                     <section className="section columns is-centered">
-                        <Card title="APAVE" image="/img/APAVE.png" className="card-logo-image">
+                        <Card title="APAVE" image="/img/APAVE.png">
                             <div className="my-2">
                                 <h6>
                                     Video Games
                                 </h6>
                             </div>
                         </Card>
-                        <Card title="Prospectiva" image="/img/Prospectiva.png" className="card-logo-image">
+                        <Card title="Prospectiva" image="/img/Prospectiva.png">
                             <div className="my-2">
                                 <h6>
                                     Video Games
