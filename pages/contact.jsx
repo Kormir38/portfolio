@@ -20,7 +20,7 @@ export default function Contact() {
                             By mail
                         </h1>
                         <h2 className="subtitle">
-                            <a href="mailto:ljpbsod@gmail.com">ljpbsod@gmail.com</a>
+                            <a href="mailto:clement.alexandre@protonmail.com">clement.alexandre@protonmail.com</a>
                         </h2>
                     </div>
                 </div>
@@ -30,7 +30,7 @@ export default function Contact() {
                             Through LinkedIn
                         </h1>
                         <h2 className="subtitle">
-                            <a href="https://www.linkedin.com/in/tysilio/" target="_blank">@tysilio</a>
+                            <a href="https://www.linkedin.com/in/clement-alexandre" target="_blank">@clement-alexandre</a>
                         </h2>
                     </div>
                 </div>
