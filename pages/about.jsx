@@ -99,7 +99,7 @@ export default function About() {
                         <Card title="APAVE" image="/img/APAVE.png">
                             <div className="my-2">
                                 <h6>
-                                    Video Games
+                                    Mobile Development with Native Android
                                 </h6>
                             </div>
                         </Card>
