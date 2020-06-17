@@ -172,7 +172,7 @@ export default function About() {
                     </div>
                     <Link href="/contact">
                         <a className="button is-primary is-outlined">
-                            Contact me
+                            Contact me!
                         </a>
                     </Link>
                 </div>
