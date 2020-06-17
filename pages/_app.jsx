@@ -12,7 +12,7 @@ export default function PortfolioApp({ Component, pageProps }) {
     return (
         <div className="app-container">
             <Head>
-                <title>Liam - Web and Mobile Developer</title>
+                <title>Clément - Web and Mobile Developer</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <Navbar/>

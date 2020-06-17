@@ -7,7 +7,7 @@ export default function Footer() {
             <div className="content columns">
                 <div className="column">
                     <p>
-                        Made with <span id="heart-pulse">❤️</span> by Liam Powell, powered by
+                        Made with <span id="heart-pulse">❤️</span> by Clément ALEXANDRE, powered by
                         <a href="https://bulma.io"> Bulma</a> and <a href="https://nextjs.org">Next.js</a>.
                     </p>
                 </div>
