@@ -93,10 +93,10 @@ export default function About() {
                 <div className="hero v-centered">
                     <div className="hero-body has-text-centered">
                         <h1 className="title">
-                            Other stuff
+                            Day to day activities
                         </h1>
                         <h2 className="subtitle">
-                            I'm human, after all...
+                            I enjoy lots of things...
                         </h2>
                     </div>
                 </div>
@@ -105,29 +105,11 @@ export default function About() {
                         <div className="my-2">
                             <img src="/img/video-game.svg" alt="Video games" className="card-element-image"/>
                             <h6>
-                                I play video games!
-                            </h6>
-                        </div>
-                        <div className="my-2">
-                            <img src="/img/vr.svg" alt="Virtual reality" className="card-element-image"/>
-                            <h6>
-                                Virtual reality
-                            </h6>
-                        </div>
-                        <div className="my-2">
-                            <img src="/img/unrealengine.svg" alt="React" className="card-element-image"/>
-                            <h6>
-                                Game development
+                                Video games
                             </h6>
                         </div>
                     </Card>
                     <Card title="Music" image="/img/music.svg">
-                        <div className="my-2">
-                            <img src="/img/ocarina.svg" alt="Ocarina" className="card-element-image"/>
-                            <h6>
-                                Ocarina
-                            </h6>
-                        </div>
                         <div className="my-2">
                             <img src="/img/headset.svg" alt="Music listening" className="card-element-image"/>
                             <h6>
@@ -137,9 +119,9 @@ export default function About() {
                     </Card>
                     <Card title="Art" image="/img/art.svg">
                         <div className="my-2 v-centered">
-                            <img src="/img/3d.svg" alt="3D" className="card-element-image"/>
+                            <img src="/img/microphone.svg" alt="3D" className="card-element-image"/>
                             <h6>
-                                3D modeling/posing
+                                Story telling / Voice dubbing
                             </h6>
                         </div>
                     </Card>
