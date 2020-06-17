@@ -96,7 +96,7 @@ export default function About() {
                         </div>
                     </div>
                     <section className="section columns is-centered">
-                        <Card title="APAVE" image="/img/APAVE.png">
+                        <Card title="Apave" image="/img/APAVE.png">
                             <div className="my-2">
                                 <h6>
                                     Mobile Development with Native Android
@@ -106,7 +106,7 @@ export default function About() {
                         <Card title="Prospectiva" image="/img/Prospectiva.png">
                             <div className="my-2">
                                 <h6>
-                                    Video Games
+                                    Back-end Development with Symfony 2 / 3
                                 </h6>
                             </div>
                         </Card>
