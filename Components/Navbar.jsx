@@ -45,7 +45,7 @@ export default function Navbar() {
                 <div className="navbar-end">
                     <div className="navbar-item">
                         <div className="buttons">
-                            <a href="https://www.linkedin.com/in/tysilio/" target="_blank">
+                            <a href="https://www.linkedin.com/in/clement-alexandre/" target="_blank">
                                 <img src="/img/linkedin.svg" className="logo-link" alt="LinkedIn" height="32" width="32"/>
                             </a>
                             <a href="https://github.com/BSoD38" target="_blank">
