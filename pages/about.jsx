@@ -95,8 +95,8 @@ export default function About() {
                             </h2>
                         </div>
                     </div>
-                    <section >
-                        <Card image="/img/APAVE.png">
+                    <section className="section columns is-centered">
+                        <Card id="logo" image="/img/APAVE.png">
                             <div className="my-2">
                                 <h6>
                                     Mobile Development with Native Android
