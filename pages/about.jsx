@@ -68,13 +68,13 @@ export default function About() {
                         </Card>
                         <Card title="Mobile developer" image="/img/mobile-dev.svg">
                             <div className="my-2">
-                                <img src="/img/android.png" alt="Symfony" className="card-element-image"/>
+                                <img src="/img/android.png" alt="Native Android (Java)" className="card-element-image"/>
                                 <h6>
                                     Native Android (Java)
                                 </h6>
                             </div>
                             <div className="my-2">
-                                <img src="/img/apachecordova.png" alt="Symfony" className="card-element-image"/>
+                                <img src="/img/apachecordova.svg" alt="Apache Cordova" className="card-element-image"/>
                                 <h6>
                                     Cordova
                                 </h6>
