@@ -22,9 +22,9 @@ export default function About() {
                     </div>
                     <div className="column">
                         <p className="content is-large has-text-justified">
-                            Hello there! I'm Clément, I'm a full-stack and mobile developer based in Grenoble, France.
+                            Hello there! I'm Clément, a full-stack and mobile developer based in Grenoble, France.
                             I mainly use Symfony 2, 3 and 4 as back-end technologies and I work with React and Vue.js as front-end
-                            techs. I also had the opportunity to use Angular and Ionic through my studies and dabbled with Node.js and
+                            technologies. I also had the opportunity to use Angular and Ionic through my studies and dabbled with Node.js and
                             Electron when working on small personal projects.
                         </p>
                         <p className="content is-large has-text-justified">
