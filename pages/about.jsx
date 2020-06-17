@@ -105,7 +105,13 @@ export default function About() {
                         <div className="my-2">
                             <img src="/img/video-game.svg" alt="Video games" className="card-element-image"/>
                             <h6>
-                                Video games
+                                Video Games
+                            </h6>
+                        </div>
+                        <div className="my-2">
+                            <img src="/img/dice.svg" alt="Video games" className="card-element-image"/>
+                            <h6>
+                                Role Play Games
                             </h6>
                         </div>
                     </Card>
