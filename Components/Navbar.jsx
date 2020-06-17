@@ -48,7 +48,7 @@ export default function Navbar() {
                             <a href="https://www.linkedin.com/in/clement-alexandre/" target="_blank">
                                 <img src="/img/linkedin.svg" className="logo-link" alt="LinkedIn" height="32" width="32"/>
                             </a>
-                            <a href="https://github.com/BSoD38" target="_blank">
+                            <a href="https://github.com/Kormir38" target="_blank">
                                 <img src="/img/github.svg" className="logo-link" alt="GitHub" height="32" width="32"/>
                             </a>
                         </div>

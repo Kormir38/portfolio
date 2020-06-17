@@ -28,7 +28,7 @@ export default function About() {
                             Electron when working on small personal projects.
                         </p>
                         <p className="content is-large has-text-justified">
-                            Check out the overview of my skills and experience below.
+                            Check out an overview of my skills and experience below.
                         </p>
                     </div>
                 </section>
