@@ -95,7 +95,7 @@ export default function About() {
                             </h2>
                         </div>
                     </div>
-                    <section className="section columns is-centered">
+                    <section >
                         <Card image="/img/APAVE.png">
                             <div className="my-2">
                                 <h6>
