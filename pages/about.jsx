@@ -73,6 +73,12 @@ export default function About() {
                                     Native Android (Java)
                                 </h6>
                             </div>
+                            <div className="my-2">
+                                <img src="/img/apachecordova.png" alt="Symfony" className="card-element-image"/>
+                                <h6>
+                                    Cordova
+                                </h6>
+                            </div>
                         </Card>
                     </section>
                 </div>
