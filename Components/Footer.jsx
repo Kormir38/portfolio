@@ -13,7 +13,7 @@ export default function Footer() {
                 </div>
                 <div className="column has-text-right">
                     <p>
-                        Made with the help of <Link href="/credits"><a>these guys</a></Link>.
+                        Made with the help of <Link href="/credits"><a>these fabulous people</a></Link>.
                     </p>
                 </div>
             </div>

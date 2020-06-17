@@ -11,10 +11,10 @@ export default function Home() {
                 <div className="hero-body">
                     <div className="container">
                         <h1 className="title">
-                            Welcome to my portfolio.
+                            Welcome to my portfolio
                         </h1>
                         <h2 className="subtitle">
-                            I'm Clément, a web and mobile developer.
+                            I'm Clément, a web and mobile developer
                         </h2>
                     </div>
                 </div>
