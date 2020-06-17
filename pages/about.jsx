@@ -68,21 +68,9 @@ export default function About() {
                         </Card>
                         <Card title="Mobile developer" image="/img/mobile-dev.svg">
                             <div className="my-2">
-                                <img src="/img/react.svg" alt="React-Native" className="card-element-image"/>
-                                <h6>
-                                    React-Native
-                                </h6>
-                            </div>
-                            <div className="my-2">
                                 <img src="/img/android.png" alt="Symfony" className="card-element-image"/>
                                 <h6>
                                     Native Android (Java)
-                                </h6>
-                            </div>
-                            <div className="my-2">
-                                <img src="/img/ionic.svg" alt="Ionic" className="card-element-image"/>
-                                <h6>
-                                    Ionic
                                 </h6>
                             </div>
                         </Card>
