@@ -95,7 +95,7 @@ export default function About() {
                             </h2>
                         </div>
                     </div>
-                    <section className="section columns is-centered">
+                    <section className="section columns is-centered is-128x128">
                         <Card title="APAVE" image="/img/APAVE.png">
                         </Card>
                         <Card title="Prospectiva" image="/img/Prospectiva.png">
@@ -105,7 +105,7 @@ export default function About() {
             </div>
             <div className="animate__animated animate__fadeInUp">
                 <div className="hero v-centered">
-                    <div className="hero-body has-text-centered">
+                    <div className="hero-body has-text-centered is-128x128">
                         <h1 className="title">
                             Day to day activities
                         </h1>
