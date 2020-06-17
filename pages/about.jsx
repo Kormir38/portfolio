@@ -106,7 +106,7 @@ export default function About() {
                         <Card title="Prospectiva" image="/img/Prospectiva.png">
                             <div className="my-2">
                                 <h6>
-                                    Back-end Development with Symfony 2 / 3
+                                    Backend Development with Symfony 2 / 3
                                 </h6>
                             </div>
                         </Card>
