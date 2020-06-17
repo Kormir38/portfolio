@@ -95,17 +95,17 @@ export default function About() {
                             </h2>
                         </div>
                     </div>
-                    <section className="section columns is-centered is-128x128">
-                        <Card title="APAVE" image="/img/APAVE.png">
+                    <section className="section columns is-centered">
+                        <Card title="APAVE" image="/img/APAVE.png" className="card-element-image">
                         </Card>
-                        <Card title="Prospectiva" image="/img/Prospectiva.png">
+                        <Card title="Prospectiva" image="/img/Prospectiva.png" className="card-element-image">
                         </Card>
                     </section>
                 </div>
             </div>
             <div className="animate__animated animate__fadeInUp">
                 <div className="hero v-centered">
-                    <div className="hero-body has-text-centered is-128x128">
+                    <div className="hero-body has-text-centered">
                         <h1 className="title">
                             Day to day activities
                         </h1>
