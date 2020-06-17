@@ -95,8 +95,9 @@ export default function About() {
                             </h2>
                         </div>
                     </div>
-                    <section className="columns is-centered">
-                        <Card title="APAVE" image="/img/APAVE.png">
+                    <section className="section columns is-centered">
+                        <Card title="APAVE">
+                            <img src="/img/APAVE.png" alt="APAVE" className="card-element-image"/>
                             <div className="my-2">
                                 <h6>
                                     Video Games
@@ -104,6 +105,7 @@ export default function About() {
                             </div>
                         </Card>
                         <Card title="Prospectiva" image="/img/Prospectiva.png">
+                            <img src="/img/prospectiva.png" alt="Prospectiva" className="card-element-image"/>
                             <div className="my-2">
                                 <h6>
                                     Video Games
