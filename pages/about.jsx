@@ -24,7 +24,7 @@ export default function About() {
                         <p className="content is-large has-text-justified">
                             Hello there! I'm Clément, a full-stack and mobile developer based in Grenoble, France.
                             I mainly use Symfony 2, 3 and 4 as back-end technologies and I work with React and Vue.js as front-end
-                            technologies. I also had the opportunity to use Angular and Ionic through my studies and dabbled with Node.js and
+                            technologies. I also had the opportunity to use Angular and Ionic through my studies and tried my hands at Node.js and
                             Electron when working on small personal projects.
                         </p>
                         <p className="content is-large has-text-justified">
@@ -95,15 +95,15 @@ export default function About() {
                             </h2>
                         </div>
                     </div>
-                    <section className="section columns is-centered">
-                        <Card title="APAVE" image="/img/APAVE.png" className="card-element-image">
+                    <section className="section columns">
+                        <Card title="APAVE" image="/img/APAVE.png">
                             <div className="my-2">
                                 <h6>
                                     Video Games
                                 </h6>
                             </div>
                         </Card>
-                        <Card title="Prospectiva" image="/img/Prospectiva.png" className="card-element-image">
+                        <Card title="Prospectiva" image="/img/Prospectiva.png">
                             <div className="my-2">
                                 <h6>
                                     Video Games
