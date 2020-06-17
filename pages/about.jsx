@@ -84,6 +84,26 @@ export default function About() {
                 </div>
             </div>
             <div className="animate__animated animate__fadeInUp">
+                <div className="animate__animated animate__fadeInUp">
+                    <div className="hero v-centered">
+                        <div className="hero-body has-text-centered">
+                            <h1 className="title">
+                                Past experiences
+                            </h1>
+                            <h2 className="subtitle">
+                                Who I worked for?
+                            </h2>
+                        </div>
+                    </div>
+                    <section className="section columns is-centered">
+                        <Card title="APAVE" image="/img/APAVE.png">
+                        </Card>
+                        <Card title="Prospectiva" image="/img/Prospectiva.png">
+                        </Card>
+                    </section>
+                </div>
+            </div>
+            <div className="animate__animated animate__fadeInUp">
                 <div className="hero v-centered">
                     <div className="hero-body has-text-centered">
                         <h1 className="title">
