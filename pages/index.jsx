@@ -21,7 +21,7 @@ export default function Home() {
                 <div>
                     <Link href="/about">
                         <a className="button is-primary is-outlined">
-                            Learn more.
+                            Learn more
                         </a>
                     </Link>
                 </div>
