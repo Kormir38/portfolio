@@ -23,7 +23,7 @@ export default function Home() {
                     </Link>
                 </div>
             </section>
-            <section className="section animate__animated animate__zoomIn has-text-centered mt-6" style="height:80%; width:80%">
+            <section className="section animate__animated animate__zoomIn has-text-centered mt-6 last-video">
                 <h1 className="title">
                     Dernière vidéo de la chaîne
                 </h1>
