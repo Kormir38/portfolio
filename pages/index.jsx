@@ -24,7 +24,7 @@ export default function Home() {
                 </div>
             </section>
             <section className="section animate__animated animate__zoomIn has-text-centered">
-                <div className="image is-16by9">
+                <div className="image">
                     <iframe src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
                 </div>
             </section>
