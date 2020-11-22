@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
     return (
         <main className="container is-fluid bg-img">
-            <section className="section animate__animated animate__zoomIn hero has-text-centered">
+            <section className="section animate__animated animate__zoomIn hero has-text-centered mb-6">
                 <div className="hero-body">
                     <div className="container">
                         <h1 className="title">
@@ -23,7 +23,7 @@ export default function Home() {
                     </Link>
                 </div>
             </section>
-            <section className="section animate__animated animate__zoomIn has-text-centered mt-3">
+            <section className="section animate__animated animate__zoomIn has-text-centered mt-6">
                 <figure className="image is-16by9">
                     <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
                 </figure>
