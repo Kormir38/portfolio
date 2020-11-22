@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
     return (
-        <main style={{ backgroundImage: "url(" + `${require("../public/img/ToP-Banner.jpg")}` + ")" }} className="container is-fluid v-centered">
+        <main className="container is-fluid v-centered">
             <section className="section animate__animated animate__zoomIn hero has-text-centered">
                 <div className="hero-body">
                     <div className="conta iner">
