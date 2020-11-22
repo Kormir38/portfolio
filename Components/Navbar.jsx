@@ -8,8 +8,8 @@ export default function Navbar() {
         <nav className="navbar" role="navigation" aria-label="main navigation">
             <div className="navbar-brand">
                 <Link href="/">
-                    <a className="navbar-item">
-                        <img src="/img/ToP-logo.svg" alt="Tales of Pi" height="64" width="64" style="max-height: 2.5rem"/>
+                    <a className="navbar-item" style="max-height:2.75rem">
+                        <img src="/img/ToP-logo.svg" alt="Tales of Pi" height="64" width="64"/>
                     </a>
                 </Link>
 
