@@ -12,8 +12,8 @@ export default function PortfolioApp({ Component, pageProps }) {
     return (
         <div className="app-container">
             <Head>
-                <title>Clément - Web and Mobile Developer</title>
-                <link rel="icon" href="/favicon.ico" />
+                <title>Tales of Pi - Indexer</title>
+                <link rel="icon" href="/img/ToP-logo.svg" />
             </Head>
             <Navbar/>
             <Component {...pageProps} />
