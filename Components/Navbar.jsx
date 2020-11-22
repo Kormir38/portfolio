@@ -52,7 +52,7 @@ export default function Navbar() {
                     <div className="navbar-item">
                         <div className="buttons">
                             <a href="https://github.com/Kormir38" target="_blank">
-                                <img src="/img/github.svg" className="logo-link" alt="GitHub" height="32" width="32"/>
+                                <img src="/img/github.svg" className="lo    go-link" alt="GitHub" height="32" width="32"/>
                             </a>
                         </div>
                     </div>
