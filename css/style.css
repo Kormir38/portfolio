@@ -1,5 +1,6 @@
 .bg-img {
-  background-image: url(/public/img/ToP-banner.jpg); }
+  background-image: url(/public/img/ToP-banner.jpg); 
+}
 
 .app-container {
   display: flex;
