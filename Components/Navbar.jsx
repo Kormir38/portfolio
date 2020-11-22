@@ -9,7 +9,7 @@ export default function Navbar() {
             <div className="navbar-brand">
                 <Link href="/">
                     <a className="navbar-item">
-                        <img src="/img/ToP-logo.svg" alt="logo"/>
+                        <img src="/img/ToP-logo.svg" className="logo-link" alt="Tales of Pi" height="32" width="32"/>
                     </a>
                 </Link>
 
