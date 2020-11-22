@@ -6,7 +6,7 @@ export default function Home() {
         <main className="container is-fluid v-centered">
             <section className="section animate__animated animate__zoomIn hero has-text-centered">
                 <div className="hero-body">
-                    <div className="conta iner">
+                    <div className="container">
                         <h1 className="title">
                             Bienvenue sur l'index Tales of Pi
                         </h1>
