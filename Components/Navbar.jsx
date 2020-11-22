@@ -7,11 +7,8 @@ export default function Navbar() {
     return (
         <nav className="navbar" role="navigation" aria-label="main navigation">
             <div className="navbar-brand">
-                <Link href="/">
-                    <a className="navbar-item" style="max-height:2.75rem">
-                        <img src="/img/ToP-logo.svg" alt="Tales of Pi" height="64" width="64"/>
-                    </a>
-                </Link>
+                <img src="/img/ToP-logo.svg" alt="Tales of Pi" height="64" width="64"/>
+
 
                 <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false"
                    data-target="navbar" onClick={() => setShowNavbar(!showNavbar)}>
