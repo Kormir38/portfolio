@@ -22,7 +22,9 @@ export default function Home() {
                         </a>
                     </Link>
                 </div>
-                <div style="margin-top:auto">
+            </section>
+            <section className="section animate__animated animate__zoomIn has-text-centered">
+                <div>
                     <iframe width="600" height="340" src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
                 </div>
             </section>
