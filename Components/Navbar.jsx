@@ -23,13 +23,13 @@ export default function Navbar() {
                         </a>
                     </Link>
 
-                    <Link href="/aboutProject">
+                    <Link href="/">
                         <a className="navbar-item">
                             A propos du projet
                         </a>
                     </Link>
 
-                    <Link href="/about">
+                    <Link href="/">
                         <a className="navbar-item">
                             A propos de Tales of Pi
                         </a>
