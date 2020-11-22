@@ -9,7 +9,7 @@ export default function Navbar() {
             <div className="navbar-brand">
                 <Link href="/">
                     <a className="navbar-item">
-                        <img src="/img/ToP-logo.svg" className="logo-link" alt="Tales of Pi" height="32" width="32"/>
+                        <img src="/img/ToP-logo.svg" className="logo-link" alt="Tales of Pi" height="64" width="64"/>
                     </a>
                 </Link>
 
@@ -52,7 +52,7 @@ export default function Navbar() {
                     <div className="navbar-item">
                         <div className="buttons">
                             <a href="https://github.com/Kormir38" target="_blank">
-                                <img src="/img/github.svg" className="logo-link" alt="GitHub" height="32" width="32"/>
+                                <img src="/img/github.svg" className="logo-link" alt="GitHub" height="64" width="64"/>
                             </a>
                         </div>
                     </div>
