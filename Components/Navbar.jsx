@@ -45,6 +45,9 @@ export default function Navbar() {
                 <div className="navbar-end">
                     <div className="navbar-item">
                         <div className="buttons">
+                            <a href="https://www.youtube.com/channel/UCSAVwJLLLVK_D5Qs8e9th3w" target="_blank">
+                                <img src="/img/youtube.svg" className="logo-link" alt="Youtube" height="32" width="32"/>
+                            </a>
                             <a href="https://github.com/Kormir38" target="_blank">
                                 <img src="/img/github.svg" className="logo-link" alt="GitHub" height="32" width="32"/>
                             </a>
