@@ -23,7 +23,7 @@ export default function Home() {
                     </Link>
                 </div>
                 <div>
-                    <iframe width="600" height="340" src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
+                    <iframe className="is-primary is-outlined" width="600" height="340" src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
                 </div>
             </section>
         </main>
