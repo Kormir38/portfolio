@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <main className="container is-fluid bg-img">
             <section className="section animate__animated animate__zoomIn hero has-text-centered">
-                <div className="hero-body is-6">
+                <div className="hero-body">
                     <div className="container">
                         <h1 className="title">
                             Bienvenue sur l'index Tales of Pi
@@ -22,7 +22,7 @@ export default function Home() {
                         </a>
                     </Link>
                 </div>
-                <div>
+                <div style="margin-top:auto">
                     <iframe width="600" height="340" src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
                 </div>
             </section>
