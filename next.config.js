@@ -1,3 +1,3 @@
 // next.config.js
-const withImages = require('next-images')
-module.exports = withImages()
+import withImages from 'next-images'
+export default withImages()
