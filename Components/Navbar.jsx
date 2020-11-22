@@ -7,9 +7,6 @@ export default function Navbar() {
     return (
         <nav className="navbar" role="navigation" aria-label="main navigation">
             <div className="navbar-brand">
-                <img src="/img/ToP-logo.svg" alt="Tales of Pi" height="64" width="64"/>
-
-
                 <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false"
                    data-target="navbar" onClick={() => setShowNavbar(!showNavbar)}>
                     <span aria-hidden="true"/>
@@ -49,7 +46,7 @@ export default function Navbar() {
                     <div className="navbar-item">
                         <div className="buttons">
                             <a href="https://github.com/Kormir38" target="_blank">
-                                <img src="/img/github.svg" className="logo-link" alt="GitHub" height="64" width="64"/>
+                                <img src="/img/github.svg" className="logo-link" alt="GitHub" height="32" width="32"/>
                             </a>
                         </div>
                     </div>
