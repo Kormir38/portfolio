@@ -11,17 +11,17 @@ export default function Home() {
                 <div className="hero-body">
                     <div className="container">
                         <h1 className="title">
-                            Welcome to my portfolio
+                            Bienvenue sur l'index Tales of Pi
                         </h1>
                         <h2 className="subtitle">
-                            I'm Clément, a web and mobile developer
+                            Petit projet réalisé pour s'entraîner avec Next.js
                         </h2>
                     </div>
                 </div>
                 <div>
-                    <Link href="/about">
+                    <Link href="/aboutProject">
                         <a className="button is-primary is-outlined">
-                            Learn more
+                            Le projet
                         </a>
                     </Link>
                 </div>
