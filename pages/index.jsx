@@ -3,8 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
     return (
-        <main className="container is-fluid v-centered">
-            <div style="background-image: url('/img/ToP-banner.jpg')"></div>
+        <main style="background-image: url('/public/img/ToP-banner.jpg')" className="container is-fluid v-centered">
             <section className="section animate__animated animate__zoomIn hero has-text-centered">
                 <div className="hero-body">
                     <div className="container">
