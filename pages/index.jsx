@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
     return (
         <main className="container is-fluid v-centered">
-            <section className="section animate__animated animate__zoomIn hero has-text-centered">
+            <section style="background-image: url('/img/ToP-image.jpg')" className="section animate__animated animate__zoomIn hero has-text-centered">
                 <div className="hero-body">
                     <div className="container">
                         <h1 className="title">
