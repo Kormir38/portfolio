@@ -6,7 +6,7 @@ export default function Home() {
         <main className="container is-fluid v-centered">
             <section className="section animate__animated animate__zoomIn hero has-text-centered">
                 <figure className="image is-128x128 centered">
-                    <img src="img/logo.jpg" alt="logo"/>
+                    <img src="img/ToP-logo.jpg" alt="logo"/>
                 </figure>
                 <div className="hero-body">
                     <div className="container">
