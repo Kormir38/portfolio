@@ -11,7 +11,7 @@ export default function Home() {
                             Bienvenue sur l'index Tales of Pi
                         </h1>
                         <h2 className="subtitle">
-                            Projet non affilié avec la chaîne Tales of Pi
+                            Projet non affilié avec la chaîne Tales of Pi, 100% fanmade
                         </h2>
                     </div>
                 </div>
