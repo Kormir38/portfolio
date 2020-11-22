@@ -23,11 +23,11 @@ export default function Home() {
                     </Link>
                 </div>
             </section>
-            <section className="section animate__animated animate__zoomIn has-text-centered mt-6">
+            <section className="section animate__animated animate__zoomIn has-text-centered mt-6" height="80%" width="80%">
                 <h1 className="title">
                     Dernière vidéo de la chaîne
                 </h1>
-                <figure className="image is-16by9" height="90%" width="90%">
+                <figure className="image is-16by9">
                     <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/+lastest?list=UUSAVwJLLLVK_D5Qs8e9th3w" frameborder="0" allowfullscreen></iframe>
                 </figure>
             </section>
