@@ -1,5 +1,8 @@
 .bg-img {
-  background-image: url(/img/ToP-banner.jpg); 
+  background-image: url(/img/ToP-banner.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 .app-container {
