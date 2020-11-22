@@ -9,7 +9,7 @@ export default function Navbar() {
             <div className="navbar-brand">
                 <Link href="/">
                     <a className="navbar-item">
-                        <img src="/img/logo.jpg" alt="logo"/>
+                        <img src="/img/ToP-logo.jpg" alt="logo"/>
                     </a>
                 </Link>
 
@@ -29,9 +29,15 @@ export default function Navbar() {
                         </a>
                     </Link>
 
+                    <Link href="/aboutProject">
+                        <a className="navbar-item">
+                            A propos du projet
+                        </a>
+                    </Link>
+
                     <Link href="/about">
                         <a className="navbar-item">
-                            About me
+                            A propos de Tales of Pi
                         </a>
                     </Link>
 
@@ -45,9 +51,6 @@ export default function Navbar() {
                 <div className="navbar-end">
                     <div className="navbar-item">
                         <div className="buttons">
-                            <a href="https://www.linkedin.com/in/clement-alexandre/" target="_blank">
-                                <img src="/img/linkedin.svg" className="logo-link" alt="LinkedIn" height="32" width="32"/>
-                            </a>
                             <a href="https://github.com/Kormir38" target="_blank">
                                 <img src="/img/github.svg" className="logo-link" alt="GitHub" height="32" width="32"/>
                             </a>

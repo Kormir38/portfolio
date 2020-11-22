@@ -8,7 +8,7 @@ export default function About() {
             <div className="hero v-centered animate__animated animate__fadeInUp">
                 <div className="hero-body has-text-centered">
                     <h1 className="title">
-                        A propos de Tales of Pi
+                        A propos du projet
                     </h1>
                     <h2 className="subtitle">
                         Who am I?
